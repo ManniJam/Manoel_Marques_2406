@@ -108,6 +108,26 @@ const LandingPage = () => {
         </div>
       </section>
 
+      {/* Our Story Section */}
+      <section className="bg-gradient-to-r from-gray-900 to-gray-800 text-white py-20">
+        <div className="container mx-auto px-4">
+          <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-4xl font-bold mb-6">Our Story</h2>
+            <div className="space-y-6 text-lg text-gray-300">
+              <p>
+                <span className="text-white font-semibold">Hermes Voiture</span> has been revolutionizing transportation since <span className="text-white font-semibold">November 2017</span>. What started as a vision to provide reliable, affordable rides has grown into a trusted platform serving millions of riders and drivers.
+              </p>
+              <p>
+                In <span className="text-white font-semibold">May 2021</span>, we expanded our operations to the Sunshine State, bringing our exceptional service to <span className="text-white font-semibold">Florida</span>. Since then, we've been committed to connecting communities, creating earning opportunities, and making every journey safe and comfortable.
+              </p>
+              <p className="text-xl text-white font-medium mt-8">
+                Proudly serving Florida communities since 2021
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="bg-black text-white py-12">
         <div className="container mx-auto px-4">
