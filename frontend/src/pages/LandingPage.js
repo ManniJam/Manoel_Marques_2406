@@ -139,10 +139,14 @@ const LandingPage = () => {
               <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center">
                 <Car className="w-5 h-5 text-black" />
               </div>
-              <span className="text-xl font-bold">Hermes & Eshu</span>
+              <div>
+                <div className="text-xl font-bold">Hermes & Eshu</div>
+                <div className="text-xs text-gray-400">A Hermes Voiture Company</div>
+              </div>
             </div>
-            <div className="text-gray-400 text-sm">
-              © 2025 Hermes & Eshu. All rights reserved.
+            <div className="text-gray-400 text-sm text-center md:text-right">
+              <div>© 2025 Hermes Voiture. All rights reserved.</div>
+              <div className="text-xs mt-1">In operation since November 2017 • Florida since May 2021</div>
             </div>
           </div>
         </div>
