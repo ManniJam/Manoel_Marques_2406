@@ -16,7 +16,10 @@ const LandingPage = () => {
             <div className="w-10 h-10 bg-black rounded-lg flex items-center justify-center">
               <Car className="w-6 h-6 text-white" />
             </div>
-            <span className="text-2xl font-bold">Hermes & Eshu</span>
+            <div>
+              <span className="text-2xl font-bold">Hermes & Eshu</span>
+              <div className="text-xs text-gray-500 -mt-1">By Hermes Voiture</div>
+            </div>
           </div>
           <div className="hidden md:flex items-center space-x-6">
             <a href="#features" className="text-gray-600 hover:text-black transition-colors">Features</a>
