@@ -29,7 +29,7 @@ const RiderLayout = ({ children }) => {
           <div className="w-10 h-10 bg-black rounded-lg flex items-center justify-center">
             <Car className="w-6 h-6 text-white" />
           </div>
-          <span className="text-xl font-bold">Hermes & Eshu</span>
+          <span className="text-xl font-bold">Joyze Livery</span>
         </div>
         <div className="flex items-center space-x-4">
           <div className="hidden md:block text-right">
