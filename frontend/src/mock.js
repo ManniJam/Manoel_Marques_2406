@@ -87,7 +87,7 @@ export const mockRides = [
     id: 'ride1',
     riderId: 'user1',
     driverId: 'driver1',
-    vehicleType: 'hermes-x',
+    vehicleType: 'joyze-standard',
     pickup: mockLocations[0],
     dropoff: mockLocations[1],
     status: 'completed',
