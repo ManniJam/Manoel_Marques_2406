@@ -34,7 +34,7 @@ const RiderLogin = () => {
           <div className="w-16 h-16 bg-black rounded-2xl flex items-center justify-center mx-auto mb-4">
             <Car className="w-10 h-10 text-white" />
           </div>
-          <h1 className="text-3xl font-bold mb-2">Welcome to Hermes & Eshu</h1>
+          <h1 className="text-3xl font-bold mb-2">Welcome to Joyze Livery</h1>
           <p className="text-gray-600">Sign in to book your ride</p>
         </div>
 
