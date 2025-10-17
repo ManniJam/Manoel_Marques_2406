@@ -29,7 +29,7 @@ const LandingPage = () => {
       {/* Hero Section */}
       <section className="container mx-auto px-4 py-20 text-center">
         <h1 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
-          Go anywhere with<br />Hermes & Eshu
+          Go anywhere with<br />Joyze Livery
         </h1>
         <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto">
           Request a ride, hop in, and go. Or drive and earn on your schedule.
