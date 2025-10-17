@@ -31,7 +31,7 @@ const DriverLayout = ({ children }) => {
           </div>
           <div>
             <span className="text-xl font-bold">Driver Portal</span>
-            <div className="text-xs text-gray-400">Hermes & Eshu</div>
+            <div className="text-xs text-gray-400">Joyze Livery</div>
           </div>
         </div>
         <div className="flex items-center space-x-4">
