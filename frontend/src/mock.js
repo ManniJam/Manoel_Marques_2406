@@ -33,8 +33,8 @@ export const mockUsers = [
 
 export const mockVehicleTypes = [
   {
-    id: 'hermes-x',
-    name: 'Hermes X',
+    id: 'joyze-standard',
+    name: 'Joyze Standard',
     description: 'Affordable, everyday rides',
     capacity: 4,
     pricePerKm: 1.5,
@@ -43,8 +43,8 @@ export const mockVehicleTypes = [
     estimatedTime: '2 min'
   },
   {
-    id: 'hermes-comfort',
-    name: 'Hermes Comfort',
+    id: 'joyze-comfort',
+    name: 'Joyze Comfort',
     description: 'Newer cars with extra legroom',
     capacity: 4,
     pricePerKm: 2.0,
@@ -53,8 +53,8 @@ export const mockVehicleTypes = [
     estimatedTime: '3 min'
   },
   {
-    id: 'hermes-xl',
-    name: 'Hermes XL',
+    id: 'joyze-xl',
+    name: 'Joyze XL',
     description: 'Affordable rides for groups up to 6',
     capacity: 6,
     pricePerKm: 2.5,
@@ -63,8 +63,8 @@ export const mockVehicleTypes = [
     estimatedTime: '5 min'
   },
   {
-    id: 'eshu-premium',
-    name: 'Eshu Premium',
+    id: 'joyze-premium',
+    name: 'Joyze Premium',
     description: 'High-end cars with top-rated drivers',
     capacity: 4,
     pricePerKm: 3.5,
